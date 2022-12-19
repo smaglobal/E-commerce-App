@@ -34,5 +34,6 @@ To Visit App:
 
 ## Notes
 
-Firebase account and API required for the user data and authentication. 
-Stripe API is required for checkout simulation. 
+- Firebase account and API required for the user data and authentication. 
+- Stripe API is required for checkout simulation.
+- Netlify is used for deployment of the application.
